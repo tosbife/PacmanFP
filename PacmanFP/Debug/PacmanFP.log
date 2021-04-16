@@ -1,0 +1,197 @@
+﻿  Map.cpp
+C:\Users\Almei\source\repos\PacmanFP\Map.h(5,15): error C3646: 'width': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\Map.h(5,15): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Almei\source\repos\PacmanFP\Map.h(6,16): error C3646: 'height': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\Map.h(6,16): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Almei\source\repos\PacmanFP\Map.h(7,16): error C2065: 'UINT8_MAX': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\Map.h(7,27): error C2065: 'UINT8_MAX': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\Map.h(10,36): error C2061: erro de sintaxe: identificador 'uint8_t'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(11,15): error C3646: 'Width': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\Map.h(11,15): error C2059: erro de sintaxe: '('
+C:\Users\Almei\source\repos\PacmanFP\Map.h(11,17): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(12,16): error C3646: 'Height': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\Map.h(12,16): error C2059: erro de sintaxe: '('
+C:\Users\Almei\source\repos\PacmanFP\Map.h(12,18): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(13,28): error C2061: erro de sintaxe: identificador 'uint8_t'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(16,10): error C2065: 'uint8_t': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\Map.h(16,18): error C2146: erro de sintaxe: ')' ausente antes do identificador 'w'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(16,41): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(16,41): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,14): error C2039: ' Width': não é um membro de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(2): message : consulte a declaração de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,19): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,19): error C2146: erro de sintaxe: ';' ausente antes do identificador 'Width'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,22): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,22): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,14): error C2039: ' Height': não é um membro de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(2): message : consulte a declaração de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,20): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,1): error C2086: 'int uint8_t': redefinição
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24): message : consulte a declaração de 'uint8_t'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,20): error C2146: erro de sintaxe: ';' ausente antes do identificador 'Height'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,23): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,23): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Almei\source\repos\PacmanFP\Map.h(31,32): error C2146: erro de sintaxe: ')' ausente antes do identificador 'x'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(31,46): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(31,46): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+  PacmanFP.cpp
+C:\Users\Almei\source\repos\PacmanFP\Map.h(14,3): error C2512: 'Map': nenhum construtor padrão apropriado disponível
+C:\Users\Almei\source\repos\PacmanFP\Map.h(2,7): message : consulte a declaração de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Player.h(21,3): error C2512: 'Player': nenhum construtor padrão apropriado disponível
+C:\Users\Almei\source\repos\PacmanFP\Player.h(7,7): message : consulte a declaração de 'Player'
+C:\Users\Almei\source\repos\PacmanFP\Player.h(39,11): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\Player.h(40,11): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\Player.h(44,12): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\Player.h(47,32): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\Player.h(54,3): error C2065: 'PlayerA': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(29,46): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(29,29): error C2789: 'BUFFER_WIDTH': um objeto do tipo qualificado como const deve ser inicializado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(29): message : consulte a declaração de 'BUFFER_WIDTH'
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(34,16): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(35,30): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(40,8): error C2371: 'map': redefinição; tipos básicos diferentes
+C:\Users\Almei\source\repos\PacmanFP\Map.h(14): message : consulte a declaração de 'map'
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(54,32): error C2131: a expressão não foi avaliada como uma constante
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(54,19): message : a falha foi causada por uma leitura de um símbolo não inicializado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(54,19): message : consulte uso de "%*"
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(57,18): warning C4838: a conversão de 'const WORD' em 'SHORT' requer uma conversão de restrição
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(85,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(86,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(87,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(88,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(89,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(90,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(91,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(92,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(93,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(94,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(95,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(96,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(97,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(98,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(99,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(100,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(101,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(102,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(103,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(104,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(105,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(106,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(107,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(108,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(109,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(110,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(111,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(112,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(113,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(114,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(115,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(116,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(117,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(118,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(119,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(120,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(121,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(122,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(123,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(124,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(125,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(126,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(127,6): error C2088: '+=': inválido para class
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(131,23): error C2065: 'MAP_HEIGHT': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(132,27): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(148,55): error C3863: o tipo de matriz 'CHAR_INFO [BUFFER_WIDTH*50]' não é atribuível
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(255,23): error C2065: 'MAP_HEIGHT': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(258,14): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(259,16): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(268,14): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(269,16): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(291,55): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(296,15): error C2065: 'ROTATION_SPEED': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(301,14): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(302,9): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(306,5): error C3861: 'movePlayer': identificador não encontrado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(307,5): error C3861: 'movePlayer': identificador não encontrado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(310,5): error C3861: 'movePlayer': identificador não encontrado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(312,4): error C3861: 'movePlayer': identificador não encontrado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(333,14): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(336,22): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(337,14): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(344,20): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(346,38): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(346,93): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(347,24): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(347,71): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(357,17): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(371,56): error C3863: o tipo de matriz 'CHAR_INFO [BUFFER_WIDTH*50]' não é atribuível
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(376,73): error C3863: o tipo de matriz 'CHAR_INFO [BUFFER_WIDTH*50]' não é atribuível
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(378,43): error C3863: o tipo de matriz 'CHAR_INFO [BUFFER_WIDTH*50]' não é atribuível
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(386,55): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(399,3): error C2065: 'SWORD': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(399,9): error C2146: erro de sintaxe: ';' ausente antes do identificador 'stepX'
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(399,9): error C2065: 'stepX': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(400,4): error C2065: 'stepY': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(401,20): error C2065: 'stepX': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(402,16): error C2065: 'stepY': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(404,24): error C2065: 'pointsQtt': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(410,14): error C2065: 'stepX': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(420,31): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(428,64): error C2065: 'MAP_WIDTH': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\PacmanFP.cpp(472,9): error C3863: o tipo de matriz 'CHAR_INFO [BUFFER_WIDTH*50]' não é atribuível
+  Player.cpp
+C:\Users\Almei\source\repos\PacmanFP\Map.h(5,15): error C3646: 'width': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\Map.h(5,15): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Almei\source\repos\PacmanFP\Map.h(6,16): error C3646: 'height': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\Map.h(6,16): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Almei\source\repos\PacmanFP\Map.h(7,16): error C2065: 'UINT8_MAX': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\Map.h(7,27): error C2065: 'UINT8_MAX': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\Map.h(10,36): error C2061: erro de sintaxe: identificador 'uint8_t'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(11,15): error C3646: 'Width': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\Map.h(11,15): error C2059: erro de sintaxe: '('
+C:\Users\Almei\source\repos\PacmanFP\Map.h(11,17): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(12,16): error C3646: 'Height': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\Map.h(12,16): error C2059: erro de sintaxe: '('
+C:\Users\Almei\source\repos\PacmanFP\Map.h(12,18): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(13,28): error C2061: erro de sintaxe: identificador 'uint8_t'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(16,10): error C2065: 'uint8_t': identificador não declarado
+C:\Users\Almei\source\repos\PacmanFP\Map.h(16,18): error C2146: erro de sintaxe: ')' ausente antes do identificador 'w'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(16,41): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(16,41): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,14): error C2039: ' Width': não é um membro de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(2): message : consulte a declaração de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,19): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,19): error C2146: erro de sintaxe: ';' ausente antes do identificador 'Width'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,22): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24,22): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,14): error C2039: ' Height': não é um membro de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(2): message : consulte a declaração de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,20): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,1): error C2086: 'int uint8_t': redefinição
+C:\Users\Almei\source\repos\PacmanFP\Map.h(24): message : consulte a declaração de 'uint8_t'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,20): error C2146: erro de sintaxe: ';' ausente antes do identificador 'Height'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,23): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(27,23): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Almei\source\repos\PacmanFP\Map.h(31,32): error C2146: erro de sintaxe: ')' ausente antes do identificador 'x'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(31,46): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(31,46): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Almei\source\repos\PacmanFP\Player.h(21,3): error C2512: 'Player': nenhum construtor padrão apropriado disponível
+C:\Users\Almei\source\repos\PacmanFP\Player.h(7,7): message : consulte a declaração de 'Player'
+C:\Users\Almei\source\repos\PacmanFP\Player.h(35,17): error C2039: ' Width': não é um membro de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(2): message : consulte a declaração de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Player.h(36,10): error C2039: ' Width': não é um membro de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(2): message : consulte a declaração de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Player.h(37,17): error C2039: ' Width': não é um membro de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Map.h(2): message : consulte a declaração de 'Map'
+C:\Users\Almei\source\repos\PacmanFP\Player.h(39,11): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\Player.h(40,11): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\Player.h(43,5): error C2660: 'Map::GetElementAt': função não recebe 2 argumentos
+C:\Users\Almei\source\repos\PacmanFP\Map.h(13,7): message : consulte a declaração de 'Map::GetElementAt'
+C:\Users\Almei\source\repos\PacmanFP\Player.h(44,12): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\Player.h(47,32): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Almei\source\repos\PacmanFP\Player.h(47,5): error C2660: 'Map::GetElementAt': função não recebe 2 argumentos
+C:\Users\Almei\source\repos\PacmanFP\Map.h(13,7): message : consulte a declaração de 'Map::GetElementAt'
+C:\Users\Almei\source\repos\PacmanFP\Player.h(54,3): error C2065: 'PlayerA': identificador não declarado
+  User.cpp
+C:\Users\Almei\source\repos\PacmanFP\User.h(11,13): error C3646: 'mouse': especificador de substituição desconhecido
+C:\Users\Almei\source\repos\PacmanFP\User.h(11,13): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+  Gerando Código...
